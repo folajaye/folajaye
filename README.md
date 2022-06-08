@@ -1,7 +1,5 @@
 - 👋 Hi there, 
 
-folajaye/folajaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👋 My name is folajaye Abdulrahman
 - 👀 I’m interested in learning Data analytics
 - 🌱 I’m currently working on building my technical skills and also participating in the 30 days of learning programme, 
